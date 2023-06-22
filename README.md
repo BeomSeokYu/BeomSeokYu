@@ -23,8 +23,8 @@
     <br><br><br><br><br>
   </div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
-  <a align="left" href="https://solved.ac/ro1864">
-    <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ro1864" alt="Solved.ac 프로필">
+  <a href="https://solved.ac/ro1864">
+    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ro1864" alt="Solved.ac 프로필">
   </a>
   <br><br><br><br><br><br><br><br><br><br><br><br><br>
   <h3>Once I've Used</h3>
