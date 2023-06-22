@@ -14,22 +14,18 @@
 <!-- 위젯 표시 -->
 <!-- 많이 사용한 언어 표시 -->
 <div align="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=BeomSeokYu&rank_icon=percentile&hide_rank=true" alt="Anurag's GitHub stats">
+  <img align="right" width="250px" src="https://github-readme-stats.vercel.app/api?username=BeomSeokYu&rank_icon=percentile&hide_rank=true" alt="Anurag's GitHub stats">
   <div align="center">
     <h3>BeomSeokYu</h3>
     노션<div><a href="https://bsnote.notion.site/Home-ef1f61c88fc84db194d8edec216a6506?pvs=4">Hihat's Dev Note</a></div><br>
     이메일<div><a href="mailto:beomseok.dev@gmail.com">beomseok.dev@gmail.com</a>
     </div>
-    <br><br><br><br><br>
+    <br><br>
   </div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
-  <a href="https://solved.ac/ro1864">
-    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ro1864" alt="Solved.ac 프로필">
-  </a>
-  <br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
   <h3>Once I've Used</h3>
   <hr>
-  <div align="center">
+  <div align="left">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
@@ -53,8 +49,11 @@
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
   </div>
+  <a href="https://solved.ac/ro1864">
+    <img align="right" width="250px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ro1864" alt="Solved.ac 프로필">
+  </a>
   <h3>Tools</h3>
-  <div align="center">
+  <div align="left">
   <hr>
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
     <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse">
