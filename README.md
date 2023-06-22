@@ -19,11 +19,11 @@
     <h2>BeomSeokYu</h2>
     <h3>Notion</h3><div><a href="https://bsnote.notion.site/Home-ef1f61c88fc84db194d8edec216a6506?pvs=4">Hihat's Dev Note</a></div>
     <h3>Email</h3><div><a href="mailto:beomseok.dev@gmail.com">beomseok.dev@gmail.com</a></div>
-    <br><br><br>
+    <br><br>
   </div>
-  <img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
+  <img align="right" width="250px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
   <h2>Once I've Used</h2>
-  <div align="left">
+  <div align="center">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
@@ -47,12 +47,13 @@
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
   </div>
+  <br><br>
   <h6 align="right">Algorithmㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h6>
   <a href="https://solved.ac/ro1864">
     <img align="right" width="250px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ro1864" alt="Solved.ac 프로필">
   </a>
   <h2>Tools</h2>
-  <div align="left">
+  <div align="center">
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
     <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
