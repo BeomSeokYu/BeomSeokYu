@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=✋🏼%20Yu's%20Github%20🏀&fontSize=50&animation=fadeIn" alt="header">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=✋🏼%20Yu's%20Github%20🏀&fontSize=50&animation=fadeIn" alt="header"> -->
 
 <!-- badge information -->
 <a href="https://hits.seeyoufarm.com">
@@ -65,4 +65,4 @@
 </div>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" alt="Footer">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" alt="Footer"> -->
