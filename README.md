@@ -17,9 +17,9 @@
   <img align="right" width="250px" height="250px" src="https://github-readme-stats.vercel.app/api?username=BeomSeokYu&rank_icon=percentile&hide_rank=true" alt="Anurag's GitHub stats">
   <div align="center">
     <h2>BeomSeokYu</h2>
-    <h3>Notion</h3><div><a href="https://bsnote.notion.site/Home-ef1f61c88fc84db194d8edec216a6506?pvs=4">Hihat's Dev Note</a></div>
-    <h3>Email</h3><div><a href="mailto:beomseok.dev@gmail.com">beomseok.dev@gmail.com</a></div>
-    <br><br><br>
+    <h4>Notion - <a href="https://bsnote.notion.site/Home-ef1f61c88fc84db194d8edec216a6506?pvs=4">Hihat's Dev Note</a></h4>
+    <h4>Email - <a href="mailto:beomseok.dev@gmail.com">beomseok.dev@gmail.com</a></h4>
+    <br><br><br><br><br>
   </div>
   <img align="right" width="250px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
   <h2>Once I've Used</h2>
