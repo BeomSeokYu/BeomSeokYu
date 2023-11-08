@@ -22,8 +22,8 @@
     <br><br><br><br><br>
   </div>
   <img align="right" width="250px" height="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
-  <h2>Once I've Used</h2>
   <div align="center">
+    <h2>Once I've Used</h2>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
