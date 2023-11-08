@@ -14,14 +14,14 @@
 <!-- 위젯 표시 -->
 <!-- 많이 사용한 언어 표시 -->
 <div align="">
-  <img align="right" width="250px" height="250px" src="https://github-readme-stats.vercel.app/api?username=BeomSeokYu&rank_icon=percentile&hide_rank=true" alt="Anurag's GitHub stats">
+  <img align="right" width="250px" height="260px" src="https://github-readme-stats.vercel.app/api?username=BeomSeokYu&rank_icon=percentile&hide_rank=true" alt="Anurag's GitHub stats">
   <div align="center">
     <h2>BeomSeokYu</h2>
     <h4>Notion - <a href="https://bsnote.notion.site/Home-ef1f61c88fc84db194d8edec216a6506?pvs=4">Hihat's Dev Note</a></h4>
     <h4>Email - <a href="mailto:beomseok.dev@gmail.com">beomseok.dev@gmail.com</a></h4>
     <br><br><br><br><br>
   </div>
-  <img align="right" width="250px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
+  <img align="right" width="250px" height="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomSeokYu&layout=compact&hide=jupyter%20notebook" alt="Top Langs">
   <h2>Once I've Used</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -46,8 +46,8 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
   </div>
-  <br><br><br>
-  <h6 align="right">Algorithmㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h6>
+  <br><br><br><br><br>
+  <h6 align="right">Algorithm</h6>
   <a href="https://solved.ac/ro1864">
     <img align="right" width="250px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ro1864" alt="Solved.ac 프로필">
   </a>
