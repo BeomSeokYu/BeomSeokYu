@@ -13,7 +13,7 @@
 
 <!-- 위젯 표시 -->
 <!-- 많이 사용한 언어 표시 -->
-
+<!--
 <div align="center" height="250px">
   <img align="right" width="250px" height="250px" src="https://github-readme-stats.vercel.app/api?username=BeomSeokYu&rank_icon=percentile&hide_rank=true" alt="Anurag's GitHub stats">
   <div align="left">
@@ -79,6 +79,6 @@
   <hr>
   <br><br>
 </div>
-
+-->
 <!-- Footer -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" alt="Footer"> -->
