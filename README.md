@@ -2,9 +2,9 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=✋🏼%20Yu's%20Github%20🏀&fontSize=50&animation=fadeIn" alt="header"> -->
 
 <!-- badge information -->
-<a href="https://hits.seeyoufarm.com">
+<!-- <a href="https://hits.seeyoufarm.com">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeomSeokYu&count_bg=%23359AC4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github+hits&edge_flat=false" alt="Hits">
-</a>
+</a> -->
 <a href="https://solved.ac/ro1864">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ro1864" alt="Solved.ac 프로필">
 </a>
