@@ -8,16 +8,16 @@ A developer who enjoys building services, automations, and useful tools.
 
 ---
 
-## 🚀 What I Do
-- 🧩 Backend (Spring Boot / NestJS)
-- 🌐 Frontend (Vue / Next.js)
-- 🤖 AI Coding (Claude Code CLI / Codex CLI / Gemini CLI) — AI-assisted workflow
-- 🐳 DevOps (Docker & Docker Compose based service deployment / Reverse Proxy & SSL configuration / CI|CD automation)
-- 🍓 Raspberry Pi & Home-Server projects
+## What I Do
+- Backend (Spring Boot / NestJS)
+- Frontend (Vue / Next.js)
+- AI Coding (Claude Code CLI / Codex CLI / Gemini CLI) — AI-assisted workflow
+- DevOps (Docker & Docker Compose based service deployment / Reverse Proxy & SSL configuration / CI|CD automation)
+- Home-Server projects (Raspberry Pi)
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ![Backend](https://img.shields.io/badge/Backend-gray?style=flat-square&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
@@ -33,7 +33,7 @@ A developer who enjoys building services, automations, and useful tools.
 
 ---
 
-## 📂 Toy Projects
+## Toy Projects
 
 [![HomeDock](https://img.shields.io/badge/HomeDock-https://beomdev.com-brightgreen?style=flat-square)](https://beomdev.com)
 
@@ -45,6 +45,6 @@ A developer who enjoys building services, automations, and useful tools.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 📧 beomseok.dev@gmail.com
 
