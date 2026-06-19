@@ -39,7 +39,7 @@ A developer who enjoys building services, automations, and useful tools.
 
 [![Algorithm Blog](https://img.shields.io/badge/Algorithm_Blog-https://algorithm.beomdev.com-yellowgreen?style=flat-square)](https://algorithm.beomdev.com)
 
-[![LoopDiary](https://img.shields.io/badge/LoopDiary-https://loopdiary.beomdev.com-yellow?style=flat-square)](https://loopdiary.com)
+[![LoopDiary](https://img.shields.io/badge/LoopDiary-https://loopdiary.com-yellow?style=flat-square)](https://loopdiary.com)
 
 [![Seatisfy](https://img.shields.io/badge/Seatisfy-https://seatisfy.beomdev.com-blue?style=flat-square)](https://seatisfy.beomdev.com)
 
