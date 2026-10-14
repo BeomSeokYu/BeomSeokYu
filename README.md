@@ -1,4 +1,4 @@
-![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=ro1864) ![Visitor Count](https://komarev.com/ghpvc/?username=BeomSeokYu&color=blue) 
+![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=ro1864)
 
 
 # 👋 Welcome
@@ -35,7 +35,7 @@ A developer who enjoys building services, automations, and useful tools.
 
 ## Toy Projects
 
-## [![Beomdev Blog](https://img.shields.io/badge/HomeDock-https://beomdev.com-brightgreen?style=flat-square)](https://beomdev.com)
+<!-- [![Beomdev Blog](https://img.shields.io/badge/HomeDock-https://beomdev.com-brightgreen?style=flat-square)](https://beomdev.com) -->
 
 [![Algorithm Blog](https://img.shields.io/badge/Algorithm_Blog-https://algorithm.beomdev.com-yellowgreen?style=flat-square)](https://algorithm.beomdev.com)
 
