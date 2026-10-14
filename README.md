@@ -35,7 +35,7 @@ A developer who enjoys building services, automations, and useful tools.
 
 ## Toy Projects
 
-[![HomeDock](https://img.shields.io/badge/HomeDock-https://beomdev.com-brightgreen?style=flat-square)](https://beomdev.com)
+## [![Beomdev Blog](https://img.shields.io/badge/HomeDock-https://beomdev.com-brightgreen?style=flat-square)](https://beomdev.com)
 
 [![Algorithm Blog](https://img.shields.io/badge/Algorithm_Blog-https://algorithm.beomdev.com-yellowgreen?style=flat-square)](https://algorithm.beomdev.com)
 
